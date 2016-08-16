@@ -22,10 +22,10 @@ MyApp.config(function($stateProvider, $urlRouterProvider) {
       url: "other",
       templateUrl: "templates/other/other.html",
     })
-    .state("stuff", {
-      url: "/stuff",
+    .state("main.stuff", {
+      url: "stuff",
       templateUrl: "templates/stuff/stuff.html",
-      controller: "StuffController",
-      controllerAs: "stuffCtrl"
+      // controller: "StuffController",
+      // controllerAs: "stuffCtrl"
     })
 });
