@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TeemuKoivisto/simple-angular-bootstrap.git"
+    "url": "git+https://github.com/jkarenko/simple-angular-bootstrap.git"
   },
   "author": "Me",
   "license": "ISC",
